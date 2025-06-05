@@ -39,8 +39,7 @@
 
 | Report        | Preview                                     |
 | ------------- | ------------------------------------------- |
-| EmmasReport   | ![emma](images/emma_dashboard_page1.png && 
-                   images/emma_dashboard_page2.png)          |
+| EmmasReport   | ![](images/emma_dashboard_page1.png) <br> ![](images/emma_dashboard_page2.png)|
 | chocolateChip | ![choc](images/chocchip_kpis.png)           |
 | cookiesReport | ![cookie](images/cookies_report_trends.png) |
 
